@@ -1,0 +1,23 @@
+Project Name: Youtube Clone
+
+
+Technoglogies used:
+-------------------------------
+HTML
+CSS
+Javascript
+
+
+Notes-
+-------------------------
+mobilefirst responsive design
+Semantic html tags
+Sass CSS
+Flexbox
+Grid
+Position
+
+
+
+
+Visit: https://sakibb7.github.io/01-Shoe-Website/
