@@ -16,8 +16,3 @@ Sass CSS
 Flexbox
 Grid
 Position
-
-
-
-
-Visit: https://sakibb7.github.io/03-Foodhub-Restaurent-Website/
